@@ -1,3 +1,5 @@
+# admixture_wrapper_complete.py
+
 admixture_wrapper_complete.py [directory with ped and map files ("recoded 12" ped files)]
 
 Will run program admixture on a directory of ped files, each assumed to have
