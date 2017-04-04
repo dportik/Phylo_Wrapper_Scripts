@@ -1,0 +1,3 @@
+JMPD004_index73	Acanthixalus_sonjae_MORAS1
+JMPD004_index70	Acanthixalus_sonjae_MORAS2
+JMPD004_index65	Acanthixalus_spinosus_JMD_890
