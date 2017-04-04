@@ -23,10 +23,15 @@ KEEP the quotations around the string in the script or it will crash.
 
 
 Examples of other useful command strings:
+
 `raxmlHPC -m GTRCAT -p 12345` -----basic run for best tree
+
 `raxmlHPC -m GTRCAT -p 12345 -# 20` -----for multiple (20) runs per file
+
 `raxmlHPC -f a -m GTRCAT -p 12345 -x 12345 -# 100` ----for rapid bootstrapping (100 reps) and best ml tree
+
 `raxmlHPC -x 12345 -p 12345 -# autoMRE -m GTRCAT` ----for  high auto stop rapid bootstrapping (up to 1000 reps) and best ml tree
+
 
 I include a couple variations of the original script here so you can compare how to edit them.
 
