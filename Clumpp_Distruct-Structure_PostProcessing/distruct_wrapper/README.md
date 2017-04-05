@@ -16,7 +16,7 @@ Check the distruct manual for info on how these options work.
 
 Written for Python 2.7
 
-External Dependencies: distruct executable must be in same directory as clumpp output files
+External Dependencies: distruct executable must be in same directory as clumpp output files (and must be named distruct, not DISTRUCT or anything else!)
 
 
 # Dan Portik
