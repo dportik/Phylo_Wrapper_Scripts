@@ -18,7 +18,7 @@ will simply continue adding to those files and create problems for the next step
 
 Written for Python 2.7
 
-External Dependencies: clumpp executable must be in same directory as clumpp indfiles
+External Dependencies: clumpp executable must be in same directory as clumpp indfiles (and must be named CLUMPP, not clumpp or anything else!)
 
 
 # Dan Portik
