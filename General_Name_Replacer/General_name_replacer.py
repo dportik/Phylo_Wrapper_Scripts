@@ -4,7 +4,7 @@ usage: python General_name_replacer.py [name change text file] [general file to 
 
 Replace a set of names within a single file.
 
-Name change file is a tab delimited text file:
+Name change file is a tab delimited text file with newline breaks at the end of each line (\n):
 original_name1 new_name1
 original_name2 new_name3
 
