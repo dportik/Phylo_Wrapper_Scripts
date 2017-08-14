@@ -8,7 +8,7 @@ Usage: python raxml_wrapper.py [directory with all 'Contig.phylip' or 'Contig.ph
 
 example: python dan/scripts/raxml_wrapper.py dan/exons/phylip_files
 
--Will run search directory for "NAME.phylip" files and the give option to execute raxml.
+-Will run search directory for "NAME.phylip" or "NAME.phy" files and the give option to execute raxml.
 Moves best tree files with '.tre' extension added to output folder '/Best_trees'
 Moves all other files from each run to '/Raxml_files'
 Check these folders for progress.
