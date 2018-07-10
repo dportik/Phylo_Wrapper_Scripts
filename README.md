@@ -8,3 +8,14 @@ This directory contains several scripts designed to automate working with severa
 
 3) RAxML: Automate running raxml across any number of phylip alignment files in a given directory. Easy to edit call of raxml within the script to achieve various outcomes.
 
+
+
+**Contact:**
+
+Daniel Portik, PhD
+
+Postdoctoral Researcher
+
+University of Arizona
+
+daniel.portik@gmail.com

@@ -21,8 +21,12 @@ Written for Python 2.7
 External Dependencies: clumpp executable must be in same directory as clumpp indfiles
 
 
-# Dan Portik
+**Contact:**
 
-daniel.portik@uta.edu
+Daniel Portik, PhD
 
-March 2016
+Postdoctoral Researcher
+
+University of Arizona
+
+daniel.portik@gmail.com

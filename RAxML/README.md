@@ -41,8 +41,12 @@ Written for Python 2.7
 External Dependencies: requires raxmlHPC to be in path (or another version like PTHREADS, in which case the string above needs to be changed)
 
 
-# Dan Portik
+**Contact:**
 
-daniel.portik@uta.edu
+Daniel Portik, PhD
 
-August 2015
+Postdoctoral Researcher
+
+University of Arizona
+
+daniel.portik@gmail.com
