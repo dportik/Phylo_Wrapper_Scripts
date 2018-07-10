@@ -9,6 +9,7 @@ This directory contains several scripts designed to automate working with severa
 3) RAxML: Automate running raxml across any number of phylip alignment files in a given directory. Easy to edit call of raxml within the script to achieve various outcomes.
 
 
+<<<<<<< HEAD
 
 **Contact:**
 
@@ -19,3 +20,6 @@ Postdoctoral Researcher
 University of Arizona
 
 daniel.portik@gmail.com
+=======
+There is also a more general use script that serves to rename taxa or samples across any type of text file (ie all input files for phylo programs). This works for a single input file or can be used to change names across any number of input files present in a single directory.
+>>>>>>> origin/master

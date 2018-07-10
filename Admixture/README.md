@@ -12,7 +12,7 @@ calculated which can be easily plotted with the associated R script.
 I also include an example R script to create stacked barplots.
 
 You may need to recode your ped files with the plink program to get 
-Admixture to run properly.
+Admixture to run properly. I use plink --recode12 for my ped files.
 
 
 Written for Python 2.7
