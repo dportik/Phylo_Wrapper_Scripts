@@ -11,10 +11,3 @@ This directory contains several scripts designed to automate working with severa
 
 There is also a more general use script that serves to rename taxa or samples across any type of text file (ie all input files for phylo programs). This works for a single input file or can be used to change names across any number of input files present in a single directory.
 
-
-**Contact:**
-
-Daniel Portik
-
-daniel.portik@gmail.com
-
